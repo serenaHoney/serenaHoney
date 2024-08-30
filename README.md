@@ -1,8 +1,5 @@
 # Hey ... I'm Liz, but you can call me Serena
 
-### I've interned at Oxford Nanopore Technologies and Illumina
-
-### I study maths and computer science at Durham University
 > BSc in Natural Sciences: Computer Science and Mathematics
 
 I want to use maths and computer science, especially AI, to work in biosecurity.
