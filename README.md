@@ -21,7 +21,7 @@ This is mostly courses I took at uni and coursework
 ### Prior Education: St Mary's Catholic Comprehensive School, 2012 – 2018:
 * GCSEs: 
 * A Levels:
-    * A*A*A* in A-level Maths, Further Maths, Physics
+    * A* A* A* in A-level Maths, Further Maths, Physics
     * A in AS-level Thinking Skills
     * A* in the Extended Writing Project (EPQ): A paper on Surgical Robots
     * I technically studied AS-level Chemistry but never took the exam because of COVID
