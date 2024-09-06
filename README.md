@@ -2,7 +2,7 @@
 
 > BSc in Natural Sciences: Computer Science and Mathematics
 
-I want to use maths and computer science, especially AI, in biosecurity.
+I'm interested in the use of AI in biosecurity.
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
