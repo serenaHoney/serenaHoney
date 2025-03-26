@@ -1,8 +1,7 @@
-# Hey ... I'm Liz, but you can call me Serena
+# I'm Liz
 
 > BSc in Natural Sciences: Computer Science and Mathematics
 
-I'm interested in the use of AI in biosecurity.
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
